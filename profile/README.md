@@ -1,6 +1,6 @@
-# .github
+# Welcome to The Jonas Botanical Society!
 
-Welcome to The Jonas Botanical Society. A group of Vintage Story modders dedicated to bringing more plants and foliage to Vintage Story. Check out our current projects.
+We're a group of Vintage Story modders dedicated to bringing more plants and foliage to Vintage Story. Check out our current projects.
 
 ## Biodiversity
 
