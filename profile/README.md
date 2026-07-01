@@ -8,5 +8,8 @@ A collection of plant centric additions mean't to bring more plants to the base 
 
 ### Getting started
 ```
-
+mkdir -p biodiversity && cd biodiversity
+for repo in biodiversityAquatic biodiversityCore biodiversityCrops biodiversityFlowers biodiversityHerbs biodiversityOrchards biodiversityShrubs biodiversityTrees; do
+  git clone https://github.com/Jonas-Botanical-Society/$repo.git
+done
 ```
