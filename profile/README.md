@@ -7,9 +7,7 @@ We're a group of Vintage Story modders dedicated to bringing more plants and fol
 A collection of plant centric additions mean't to bring more plants to the base game, and act as a launchpad to other spinoff mods.
 
 ### Getting started
+To quickly clone the whole mod, run the following command to clone everything at once.
 ```
-mkdir -p biodiversity && cd biodiversity
-for repo in biodiversityAquatic biodiversityCore biodiversityCrops biodiversityFlowers biodiversityHerbs biodiversityOrchards biodiversityShrubs biodiversityTrees; do
-  git clone https://github.com/Jonas-Botanical-Society/$repo.git
-done
+git clone --recurse-submodules https://github.com/Jonas-Botanical-Society/biodiversity.git
 ```
